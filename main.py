@@ -4,7 +4,7 @@ from aiogram.types import Message
 import asyncio
 import keyboard
 
-token = "6892099382:AAFy_VsH15ooMiENXr6sKToJpxpQRCDbpLA"
+token = "bot_token"
 
 bot = Bot(token)
 dp = Dispatcher()
